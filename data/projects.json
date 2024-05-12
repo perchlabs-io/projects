@@ -6,7 +6,8 @@
     "slug": "perch-labs-project-test",
     "published": "2023-6-01",
     "category": "service",
-    "status": "in progress"
+    "status": "in progress",
+    "network": "ergo"
   },
   {
     "views": 0,
@@ -15,7 +16,8 @@
     "slug": "pool-landscape-report-may-2023-week-2",
     "published": "2023-5-15",
     "category": "research",
-    "status": "complete"
+    "status": "complete",
+    "network": "ergo"
   },
   {
     "views": 0,
@@ -24,7 +26,8 @@
     "slug": "pool-landscape-report-april-2023-week-4",
     "published": "2023-4-30",
     "category": "analytics",
-    "status": "proposed"
+    "status": "proposed",
+    "network": "cardano"
   },
   {
     "views": 0,
@@ -33,6 +36,7 @@
     "slug": "pool-landscape-report-april-2023-week-2",
     "published": "2023-4-16",
     "category": "analytics",
-    "status": "complete"
+    "status": "complete",
+    "network": "cardano"
   }
 ]
